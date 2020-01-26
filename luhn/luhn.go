@@ -1,7 +1,6 @@
 package luhn
 
 import (
-	//"fmt"
 	"strconv"
 	"strings"
 )
